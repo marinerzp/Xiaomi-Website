@@ -1,0 +1,17 @@
+body,ul,li,h2,h3,p,dl,dd{
+    padding: 0;
+    margin: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover{
+    color: #ff6700;
+}
+.right{
+    float: right;
+}
